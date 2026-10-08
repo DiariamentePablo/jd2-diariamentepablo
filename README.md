@@ -1,22 +1,6 @@
 # jd2-diariamentepablo
 
-	Tiny Town (1.1)
+## Créditos
 
-	Created/distributed by Kenney (www.kenney.nl)
-	Creation date: 11-01-2023
-
-			------------------------------
-
-	License: (Creative Commons Zero, CC0)
-	http://creativecommons.org/publicdomain/zero/1.0/
-
-	This content is free to use in personal, educational and commercial projects.
-	Support us by crediting Kenney or www.kenney.nl (this is not mandatory)
-
-			------------------------------
-
-	Donate:   http://support.kenney.nl
-	Patreon:  http://patreon.com/kenney/
-
-	Follow on Twitter for updates:
-	http://twitter.com/KenneyNL
+- Tileset: Tiny Town, de Kenney -- https://kenney.nl/assets/tiny-town -- licença CC0
+- Personagem: Prof. Ezefferth, para a Aula 08 de Jogos Digitais II
